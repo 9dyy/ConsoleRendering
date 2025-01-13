@@ -42,3 +42,11 @@
 해당 값으로 광선이 플레이어로부터 발사돼서 움직일 때마다  X, Y, Z가 어느 좌표에 위치하는지 구한다.
 
 ![unitVector구하기](https://github.com/9dyy/ConsoleRendering/blob/main/unitvector.png)
+
+### 프로젝트 결과
+![정육면체](https://github.com/9dyy/ConsoleRendering/blob/main/%EC%A0%95%EC%9C%A1%EB%A9%B4%EC%B2%B4.png)
+![정사각뿔](https://github.com/9dyy/ConsoleRendering/blob/main/%EC%A0%95%EC%82%AC%EA%B0%81%EB%BF%94.png)
+![역정사각뿔](https://github.com/9dyy/ConsoleRendering/blob/main/%EC%97%AD%EC%A0%95%EC%82%AC%EA%B0%81%EB%BF%94.png)
+
+
+
